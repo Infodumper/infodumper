@@ -1,4 +1,4 @@
-# Hola, soy Ignacio (@Infodumper) 👋
+# Bienvenido. Soy Ignacio (@Infodumper) 👋
 ![Imagen provisional generada por IA](https://github.com/Infodumper/imagenes/blob/main/Github3.png)
 
 ## 💻 Desarrollador enfocado en automatización, sistemas y soluciones prácticas
