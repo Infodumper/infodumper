@@ -1,5 +1,5 @@
-# Bienvenido. Soy Ignacio (@Infodumper) 👋
-![Imagen provisional generada por IA](https://github.com/Infodumper/imagenes/blob/main/Github3.png)
+# Bienvenido a mi GitHub, soy Ignacio (@Infodumper) 👋
+![Imagen provisional generada por IA](https://github.com/Infodumper/imagenes/blob/main/GitHub_Paola.jpeg)
 
 ## 💻 Desarrollador enfocado en automatización, sistemas y soluciones prácticas
 📍 Mar del Plata, Argentina  
