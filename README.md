@@ -13,7 +13,7 @@ Actualmente estoy trabajando en:
 * Integraciones (WhatsApp, archivos, bases de datos)
 * Mejora de flujos de trabajo para equipos pequeños
   
-##⚙️ Tecnologías que uso  
+## ⚙️ Tecnologías que uso  
 🐍 Python  
 🌐 Flask  
 🗄️ SQL (MySQL)  
@@ -28,13 +28,13 @@ Actualmente estoy trabajando en:
 * Uso de archivos CSV
 * Interfaz web con Flask
   
-##📌 Sistema tipo CRM / Gestión
+## 📌 Sistema tipo CRM / Gestión
 * Manejo de clientes, líderes y vendedores
 * Base de datos estructurada
 * Formularios dinámicos
 * Preparado para control de accesos
 
-##📌 Automatización de procesos repetitivos
+## 📌 Automatización de procesos repetitivos
 * Lectura y procesamiento de archivos
 * Extracción de datos estructurados
 * Generación de reportes
@@ -46,7 +46,7 @@ Actualmente estoy trabajando en:
 * Preparación para proyectos de Inteligencia Artificial
 
 
-##🤝 Cómo trabajo
+## 🤝 Cómo trabajo
 * Busco soluciones simples antes que complejas
 * Priorizo que el sistema funcione y sea mantenible
 * Me interesa automatizar todo lo repetitivo
